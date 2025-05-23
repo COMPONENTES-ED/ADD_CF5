@@ -4,7 +4,7 @@
     <div class="container tarjeta tarjeta--blanca p-4 p-md-5 mb-5">
       <div class="titulo-principal color-acento-contenido">
         <div class="titulo-principal__numero"><span>3</span></div>
-        <h1>Herramientas y tecnologías para la transformación de datos</h1>
+        <h1>Técnicas de transformación de datos</h1>
       </div>
       <div class="row justify-content-center mb-5">
         <div class="col-lg-10">

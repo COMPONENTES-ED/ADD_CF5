@@ -240,7 +240,9 @@
               <ul class="lista-ul fa-ul mb-0 ps-3">
                 <li>
                   <i class="fas fa-check-circle color1"></i
-                  ><span>Reducción del 75% en el tiempo de procesamiento.</span>
+                  ><span
+                    >Reducción del 75 % en el tiempo de procesamiento.</span
+                  >
                 </li>
                 <li>
                   <i class="fas fa-check-circle color1"></i
