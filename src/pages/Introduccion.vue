@@ -101,8 +101,8 @@
               </iframe>
             </div>
             <figcaption>
-              Video. Organización de la muestra de datos de acuerdo a las
-              metodologías estadísticas
+              Video. Limpieza y transformación de datos técnicas y herramientas
+              informáticas
             </figcaption>
           </figure>
         </div>
